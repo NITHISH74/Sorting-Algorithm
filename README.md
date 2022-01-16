@@ -74,6 +74,8 @@ print(value)
 ```
 
 ## Output:
+(i) ![image](https://user-images.githubusercontent.com/94164665/149664138-ffe50357-0795-41a2-a5ce-aa685a40f848.png)
+(ii)![image](https://user-images.githubusercontent.com/94164665/149664153-af2e8552-b248-467b-ad00-80d3332f33b9.png)
 
 
 ## Result:
